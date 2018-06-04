@@ -1,0 +1,35 @@
+﻿  ik.cpp
+c:\users\ysunaw\downloads\proj2\modskels17\ik.cpp(4): error C2059: syntax error: 'public'
+c:\users\ysunaw\downloads\proj2\modskels17\ik.cpp(4): error C2143: syntax error: missing ';' before '{'
+c:\users\ysunaw\downloads\proj2\modskels17\ik.cpp(4): error C2447: '{': missing function header (old-style formal list?)
+  sample.cpp
+c:\users\ysunaw\downloads\proj2\modskels17\sample.cpp(50): warning C4805: '==': unsafe mix of type 'double' and type 'bool' in operation
+c:\users\ysunaw\downloads\proj2\modskels17\sample.cpp(64): warning C4805: '==': unsafe mix of type 'double' and type 'bool' in operation
+c:\users\ysunaw\downloads\proj2\modskels17\sample.cpp(86): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ysunaw\downloads\proj2\modskels17\sample.cpp(86): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ysunaw\downloads\proj2\modskels17\sample.cpp(87): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ysunaw\downloads\proj2\modskels17\sample.cpp(87): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ysunaw\downloads\proj2\modskels17\sample.cpp(88): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ysunaw\downloads\proj2\modskels17\sample.cpp(88): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ysunaw\downloads\proj2\modskels17\sample.cpp(89): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ysunaw\downloads\proj2\modskels17\sample.cpp(89): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ysunaw\downloads\proj2\modskels17\sample.cpp(100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\ysunaw\downloads\proj2\modskels17\sample.cpp(489): warning C4805: '==': unsafe mix of type 'double' and type 'bool' in operation
+c:\users\ysunaw\downloads\proj2\modskels17\sample.cpp(707): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ysunaw\downloads\proj2\modskels17\sample.cpp(708): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ysunaw\downloads\proj2\modskels17\sample.cpp(709): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ysunaw\downloads\proj2\modskels17\sample.cpp(742): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ysunaw\downloads\proj2\modskels17\sample.cpp(743): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ysunaw\downloads\proj2\modskels17\sample.cpp(744): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Compiling...
+  modelerui.cxx
+c:\users\ysunaw\downloads\proj2\modskels17\modelerui.cxx(103): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  modelerdraw.cpp
+c:\users\ysunaw\downloads\proj2\modskels17\modelerdraw.cpp(151): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  modelerapp.cpp
+c:\users\ysunaw\downloads\proj2\modskels17\modelerapp.cpp(37): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  Generating Code...
